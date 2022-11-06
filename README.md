@@ -1,6 +1,6 @@
 # AndroidToyProject
 
-## DOBCalc
+## 1.DOBCalc
 ### 1. Initial screen
 ![DOBCalc1](https://user-images.githubusercontent.com/80109656/200171638-6e5c58f0-93ba-4435-bd5d-8fa8df0eee71.PNG)
 ### 2. Clicked SELECT DATE button
